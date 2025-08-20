@@ -27,7 +27,7 @@ const Contact = () => {
       icon: <Mail className="h-6 w-6" />,
       title: "Email Address",
       details: [
-        "sandeepbrane3010@gmail.com",
+        "sandeepbrane30@gmail.com",
         "sales@sujalenterprises.com",
         "support@sujalenterprises.com"
       ]
@@ -100,7 +100,7 @@ const Contact = () => {
                     <a href="tel:+919987546535">Call Now</a>
                   </Button>
                   <Button variant="outline" size="lg" asChild>
-                    <a href="mailto:sandeepbrane3010@gmail.com">Send Email</a>
+                    <a href="mailto:sandeepbrane30@gmail.com">Send Email</a>
                   </Button>
                 </div>
               </div>

@@ -41,14 +41,14 @@ const Footer = () => {
             <div className="space-y-3 text-primary-foreground/80">
               <p>E-3 Advance Builder Compound, Kherani Road<br />Andheri Sakinaka, Mumbai - 400072</p>
               <p>Phone: +91 9987546535</p>
-              <p>Email: sandeepbrane3010@gmail.com</p>
+              <p>Email: sandeepbrane30@gmail.com</p>
             </div>
           </div>
         </div>
 
         <div className="border-t border-primary-foreground/20 mt-8 pt-8 text-center">
           <p className="text-primary-foreground/60">
-            © 2024 Sujal Enterprises. All rights reserved. | Professional Metal Finishing Solutions
+            © 2025 Sujal Enterprises. All rights reserved. | Professional Metal Finishing Solutions
           </p>
         </div>
       </div>
