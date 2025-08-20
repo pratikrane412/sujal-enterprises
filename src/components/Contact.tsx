@@ -9,8 +9,9 @@ const Contact = () => {
       title: "Our Location",
       details: [
         "Sujal Enterprises",
-        "E-3 Advance Builder Compound, Kherani Road",
-        "Andheri Sakinaka, Mumbai - 400072",
+        "E-3 Advance Builder Compound",
+        "Kherani Road, Andheri ",
+        "Sakinaka, Mumbai - 400072",
         "India"
       ]
     },
