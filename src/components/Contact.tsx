@@ -29,8 +29,8 @@ const Contact = () => {
       title: "Email Address",
       details: [
         "sandeepbrane30@gmail.com",
-        "sales@sujalenterprises.com",
-        "support@sujalenterprises.com"
+        "sandeepbrane@gmail.com",
+        "sujal.enp@gmail.com"
       ]
     },
     {
