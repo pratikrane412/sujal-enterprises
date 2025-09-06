@@ -9,7 +9,6 @@ const Gallery = () => {
       title: "Steel Components - Sand Blasting",
       image: sandblastingWork,
       category: "Sand Blasting",
-      description: "Professional sand blasting on steel components achieving uniform surface texture and optimal preparation for coating.",
       beforeAfter: "After Treatment"
     },
     {
@@ -17,7 +16,6 @@ const Gallery = () => {
       title: "Precision Parts - Nickel Plating",
       image: sandblastingWork,
       category: "Nickel Plating", 
-      description: "High-quality nickel plating providing excellent corrosion resistance and smooth finish on precision metal parts.",
       beforeAfter: "Final Result"
     },
     {
@@ -25,7 +23,6 @@ const Gallery = () => {
       title: "Industrial Components - Shot Blasting",
       image: sandblastingWork,
       category: "Shot Blasting",
-      description: "Shot blasting treatment for heavy-duty industrial parts, removing scale and preparing surfaces for further processing.",
       beforeAfter: "Process Complete"
     },
     {
@@ -33,7 +30,6 @@ const Gallery = () => {
       title: "Electronic Parts - Electroless Plating",
       image: sandblastingWork,
       category: "Electroless Plating",
-      description: "Uniform electroless plating on complex geometries ensuring complete coverage without electrical contact points.",
       beforeAfter: "Quality Finish"
     },
     {
@@ -41,7 +37,6 @@ const Gallery = () => {
       title: "Automotive Parts - Multi-Process",
       image: sandblastingWork,
       category: "Combined Services",
-      description: "Complete treatment process: sand blasting followed by nickel plating for automotive components.",
       beforeAfter: "Complete Process"
     },
     {
@@ -49,7 +44,6 @@ const Gallery = () => {
       title: "Custom Metal Work - Specialized",
       image: sandblastingWork,
       category: "Custom Work",
-      description: "Specialized treatment for unique metal parts with custom specifications and quality requirements.",
       beforeAfter: "Custom Solution"
     },
     {
@@ -57,7 +51,6 @@ const Gallery = () => {
       title: "Custom Metal Work - Specialized",
       image: sandblastingWork,
       category: "Custom Work",
-      description: "Specialized treatment for unique metal parts with custom specifications and quality requirements.",
       beforeAfter: "Custom Solution"
     },
     {
@@ -65,7 +58,6 @@ const Gallery = () => {
       title: "Custom Metal Work - Specialized",
       image: sandblastingWork,
       category: "Custom Work",
-      description: "Specialized treatment for unique metal parts with custom specifications and quality requirements.",
       beforeAfter: "Custom Solution"
     },
     {
@@ -73,7 +65,6 @@ const Gallery = () => {
       title: "Custom Metal Work - Specialized",
       image: sandblastingWork,
       category: "Custom Work",
-      description: "Specialized treatment for unique metal parts with custom specifications and quality requirements.",
       beforeAfter: "Custom Solution"
     },
     {
@@ -81,7 +72,6 @@ const Gallery = () => {
       title: "Custom Metal Work - Specialized",
       image: sandblastingWork,
       category: "Custom Work",
-      description: "Specialized treatment for unique metal parts with custom specifications and quality requirements.",
       beforeAfter: "Custom Solution"
     },
     {
@@ -89,7 +79,6 @@ const Gallery = () => {
       title: "Custom Metal Work - Specialized",
       image: sandblastingWork,
       category: "Custom Work",
-      description: "Specialized treatment for unique metal parts with custom specifications and quality requirements.",
       beforeAfter: "Custom Solution"
     },
     {
@@ -97,7 +86,6 @@ const Gallery = () => {
       title: "Custom Metal Work - Specialized",
       image: sandblastingWork,
       category: "Custom Work",
-      description: "Specialized treatment for unique metal parts with custom specifications and quality requirements.",
       beforeAfter: "Custom Solution"
     },
     {
@@ -105,7 +93,6 @@ const Gallery = () => {
       title: "Custom Metal Work - Specialized",
       image: sandblastingWork,
       category: "Custom Work",
-      description: "Specialized treatment for unique metal parts with custom specifications and quality requirements.",
       beforeAfter: "Custom Solution"
     },
     {
@@ -113,7 +100,6 @@ const Gallery = () => {
       title: "Custom Metal Work - Specialized",
       image: sandblastingWork,
       category: "Custom Work",
-      description: "Specialized treatment for unique metal parts with custom specifications and quality requirements.",
       beforeAfter: "Custom Solution"
     },
     {
@@ -121,7 +107,6 @@ const Gallery = () => {
       title: "Custom Metal Work - Specialized",
       image: sandblastingWork,
       category: "Custom Work",
-      description: "Specialized treatment for unique metal parts with custom specifications and quality requirements.",
       beforeAfter: "Custom Solution"
     },
     {
@@ -129,7 +114,6 @@ const Gallery = () => {
       title: "Custom Metal Work - Specialized",
       image: sandblastingWork,
       category: "Custom Work",
-      description: "Specialized treatment for unique metal parts with custom specifications and quality requirements.",
       beforeAfter: "Custom Solution"
     },
     {
@@ -137,7 +121,6 @@ const Gallery = () => {
       title: "Custom Metal Work - Specialized",
       image: sandblastingWork,
       category: "Custom Work",
-      description: "Specialized treatment for unique metal parts with custom specifications and quality requirements.",
       beforeAfter: "Custom Solution"
     },
     {
@@ -145,7 +128,6 @@ const Gallery = () => {
       title: "Custom Metal Work - Specialized",
       image: sandblastingWork,
       category: "Custom Work",
-      description: "Specialized treatment for unique metal parts with custom specifications and quality requirements.",
       beforeAfter: "Custom Solution"
     },
     {
@@ -153,7 +135,6 @@ const Gallery = () => {
       title: "Custom Metal Work - Specialized",
       image: sandblastingWork,
       category: "Custom Work",
-      description: "Specialized treatment for unique metal parts with custom specifications and quality requirements.",
       beforeAfter: "Custom Solution"
     },
     {
@@ -161,7 +142,6 @@ const Gallery = () => {
       title: "Custom Metal Work - Specialized",
       image: sandblastingWork,
       category: "Custom Work",
-      description: "Specialized treatment for unique metal parts with custom specifications and quality requirements.",
       beforeAfter: "Custom Solution"
     },
     {
@@ -169,7 +149,6 @@ const Gallery = () => {
       title: "Custom Metal Work - Specialized",
       image: sandblastingWork,
       category: "Custom Work",
-      description: "Specialized treatment for unique metal parts with custom specifications and quality requirements.",
       beforeAfter: "Custom Solution"
     },
     {
@@ -177,7 +156,6 @@ const Gallery = () => {
       title: "Custom Metal Work - Specialized",
       image: sandblastingWork,
       category: "Custom Work",
-      description: "Specialized treatment for unique metal parts with custom specifications and quality requirements.",
       beforeAfter: "Custom Solution"
     },
     {
@@ -185,7 +163,6 @@ const Gallery = () => {
       title: "Custom Metal Work - Specialized",
       image: sandblastingWork,
       category: "Custom Work",
-      description: "Specialized treatment for unique metal parts with custom specifications and quality requirements.",
       beforeAfter: "Custom Solution"
     },
     {
@@ -193,7 +170,6 @@ const Gallery = () => {
       title: "Custom Metal Work - Specialized",
       image: sandblastingWork,
       category: "Custom Work",
-      description: "Specialized treatment for unique metal parts with custom specifications and quality requirements.",
       beforeAfter: "Custom Solution"
     },
   ];
@@ -238,9 +214,6 @@ const Gallery = () => {
                   <h3 className="text-xl font-semibold text-card-foreground mb-3">
                     {project.title}
                   </h3>
-                  <p className="text-muted-foreground leading-relaxed">
-                    {project.description}
-                  </p>
                 </CardContent>
               </Card>
             ))}
