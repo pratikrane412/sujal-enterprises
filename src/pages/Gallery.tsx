@@ -7,171 +7,192 @@ const Gallery = () => {
     {
       id: 1,
       title: "Steel Components - Sand Blasting",
-      image: sandblastingWork,
+      image: "./1.jpg",
       category: "Sand Blasting",
       beforeAfter: "After Treatment"
     },
     {
       id: 2,
       title: "Precision Parts - Nickel Plating",
-      image: sandblastingWork,
-      category: "Nickel Plating", 
+      image: "./2.jpg",
+      category: "Nickel Plating",
       beforeAfter: "Final Result"
     },
     {
       id: 3,
       title: "Industrial Components - Shot Blasting",
-      image: sandblastingWork,
+      image: "./3.jpg",
       category: "Shot Blasting",
       beforeAfter: "Process Complete"
     },
     {
       id: 4,
       title: "Electronic Parts - Electroless Plating",
-      image: sandblastingWork,
+      image: "./4.jpg",
       category: "Electroless Plating",
       beforeAfter: "Quality Finish"
     },
     {
       id: 5,
       title: "Automotive Parts - Multi-Process",
-      image: sandblastingWork,
+      image: "./5.jpg",
       category: "Combined Services",
       beforeAfter: "Complete Process"
     },
     {
       id: 6,
       title: "Custom Metal Work - Specialized",
-      image: sandblastingWork,
+      image: "./6.jpg",
       category: "Custom Work",
       beforeAfter: "Custom Solution"
     },
     {
       id: 7,
       title: "Custom Metal Work - Specialized",
-      image: sandblastingWork,
+      image: "./7.jpg",
       category: "Custom Work",
       beforeAfter: "Custom Solution"
     },
     {
       id: 8,
       title: "Custom Metal Work - Specialized",
-      image: sandblastingWork,
+      image: "./8.jpg",
       category: "Custom Work",
       beforeAfter: "Custom Solution"
     },
     {
       id: 9,
       title: "Custom Metal Work - Specialized",
-      image: sandblastingWork,
+      image: "./9.jpg",
       category: "Custom Work",
       beforeAfter: "Custom Solution"
     },
     {
       id: 10,
       title: "Custom Metal Work - Specialized",
-      image: sandblastingWork,
+      image: "./10.jpg",
       category: "Custom Work",
       beforeAfter: "Custom Solution"
     },
     {
       id: 11,
       title: "Custom Metal Work - Specialized",
-      image: sandblastingWork,
+      image: "./11.jpg",
       category: "Custom Work",
       beforeAfter: "Custom Solution"
     },
     {
       id: 12,
       title: "Custom Metal Work - Specialized",
-      image: sandblastingWork,
+      image: "./12.jpg",
       category: "Custom Work",
       beforeAfter: "Custom Solution"
     },
     {
       id: 13,
       title: "Custom Metal Work - Specialized",
-      image: sandblastingWork,
+      image: "./13.jpg",
       category: "Custom Work",
       beforeAfter: "Custom Solution"
     },
     {
       id: 14,
       title: "Custom Metal Work - Specialized",
-      image: sandblastingWork,
+      image: "./14.jpg",
       category: "Custom Work",
       beforeAfter: "Custom Solution"
     },
     {
       id: 15,
       title: "Custom Metal Work - Specialized",
-      image: sandblastingWork,
+      image: "./15.jpg",
       category: "Custom Work",
       beforeAfter: "Custom Solution"
     },
     {
       id: 16,
       title: "Custom Metal Work - Specialized",
-      image: sandblastingWork,
+      image: "./16.jpg",
       category: "Custom Work",
       beforeAfter: "Custom Solution"
     },
     {
       id: 17,
       title: "Custom Metal Work - Specialized",
-      image: sandblastingWork,
+      image: "./17.jpg",
       category: "Custom Work",
       beforeAfter: "Custom Solution"
     },
     {
       id: 18,
       title: "Custom Metal Work - Specialized",
-      image: sandblastingWork,
+      image: "./18.jpg",
       category: "Custom Work",
       beforeAfter: "Custom Solution"
     },
     {
       id: 19,
       title: "Custom Metal Work - Specialized",
-      image: sandblastingWork,
+      image: "./19.jpg",
       category: "Custom Work",
       beforeAfter: "Custom Solution"
     },
     {
       id: 20,
       title: "Custom Metal Work - Specialized",
-      image: sandblastingWork,
+      image: "./20.jpg",
       category: "Custom Work",
       beforeAfter: "Custom Solution"
     },
     {
       id: 21,
       title: "Custom Metal Work - Specialized",
-      image: sandblastingWork,
+      image: "./21.jpg",
       category: "Custom Work",
       beforeAfter: "Custom Solution"
     },
     {
       id: 22,
       title: "Custom Metal Work - Specialized",
-      image: sandblastingWork,
+      image: "./22.jpg",
       category: "Custom Work",
       beforeAfter: "Custom Solution"
     },
     {
       id: 23,
       title: "Custom Metal Work - Specialized",
-      image: sandblastingWork,
+      image: "./23.jpg",
       category: "Custom Work",
       beforeAfter: "Custom Solution"
     },
     {
       id: 24,
       title: "Custom Metal Work - Specialized",
-      image: sandblastingWork,
+      image: "./24.jpg",
       category: "Custom Work",
       beforeAfter: "Custom Solution"
     },
+    {
+      id: 25,
+      title: "Custom Metal Work - Specialized",
+      image: "./25.jpg",
+      category: "Custom Work",
+      beforeAfter: "Custom Solution"
+    },
+    {
+      id: 26,
+      title: "Custom Metal Work - Specialized",
+      image: "./26.jpg",
+      category: "Custom Work",
+      beforeAfter: "Custom Solution"
+    },
+    {
+      id: 27,
+      title: "Custom Metal Work - Specialized",
+      image: "./27.jpg",
+      category: "Custom Work",
+      beforeAfter: "Custom Solution"
+    }
   ];
 
   return (
@@ -189,13 +210,13 @@ const Gallery = () => {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             {projects.map((project) => (
-              <Card 
+              <Card
                 key={project.id}
                 className="overflow-hidden shadow-card hover:shadow-industrial transition-all duration-300 group border-border/50"
               >
                 <div className="relative overflow-hidden">
-                  <img 
-                    src={project.image} 
+                  <img
+                    src={project.image}
                     alt={project.title}
                     className="w-full h-64 object-cover transition-transform duration-300 group-hover:scale-105"
                   />
